@@ -1,0 +1,5 @@
+import java.util.*
+ public static void main (Srting args[])
+ {
+    system.out.println ("Hello world");
+ }

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\DUP-REP\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+988028452.index
+2930926959.index
+4004909909.index
+132485344.index
+2363693869.index
+2843590200.index

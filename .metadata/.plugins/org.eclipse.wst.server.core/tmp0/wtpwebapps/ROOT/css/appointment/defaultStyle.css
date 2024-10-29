@@ -1,0 +1,38 @@
+/* Text links (<a>) */
+.jPaginate-link-text
+{
+	color: #e7f0fb;
+	text-decoration: none;
+}
+
+/* Active links */
+.jPaginate-link-text:hover, .jPaginate-link-text.jPaginate-link-text-active
+{
+	text-decoration: underline;
+}
+
+/* Selected options */
+.jPaginate-link-option-selected
+{
+	color: #04469f;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+/* All inputs in the rows of links */
+.jPaginate-links-row input
+{
+	text-align: center;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+/* Input box */
+.jPaginate-link-input
+{
+	width: 30px;
+	font-weight: bold;
+	padding: 0px;
+	border: 1px solid #000;
+	border-radius: 5px;
+}

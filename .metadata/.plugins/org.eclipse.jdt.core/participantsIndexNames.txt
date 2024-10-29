@@ -1,0 +1,9 @@
+INDEX VERSION 1.134
+D:\DUP-REP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3235316501.index
+\ROOT\src\main\java
+D:\DUP-REP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2258694190.index
+\ROOT\src\main\java
+D:\DUP-REP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3283408947.index
+\ROOT\src\main\java
+D:\DUP-REP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2169827941.index
+\ROOT\src\main\java

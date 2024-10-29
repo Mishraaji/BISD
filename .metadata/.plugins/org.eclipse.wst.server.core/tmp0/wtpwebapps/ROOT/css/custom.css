@@ -1,0 +1,117 @@
+.subHeader {
+	
+	color: #008cba;
+	font-size: 20px;
+	text-align: left;
+	font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif !important;
+font-weight: normal;
+font-style: normal;
+}
+
+.customHeader3 {
+	
+	 font-size: 20px; background-color: #a0d3e8;
+			border-color: #74bfdd;
+			color: #4f4f4f;
+			padding: 10px 10px 10px 10px;
+			padding-left: 15px;
+}
+
+
+.customHeader {
+	
+	background-color: #008cba; color: white;  font-size: 28; width: 100%; 
+	text-align: center; height: 50px; line-height: 50px;
+}
+
+.customHeader11 {
+	
+	background-color: #008cba; color: white;  font-size: 28; width: 100%; 
+	text-align: center; height: 60px; line-height: 60px;
+}
+
+.customHeader2 {
+	
+	background-color: #008cba;
+color: white;
+font-size: 20px !important;
+width: 100%;
+text-align: center;
+height: 40;
+line-height: 40px;
+margin-bottom: 10px;
+border-color: #007095;
+border: 1px solid #007095
+}
+
+.customHeader3 {
+	
+	background-color: #66BAD6; color: #003749;  font-size: 14px !important;  width: 100%; 
+	text-align: center; height: 18; line-height: 18px; 
+	border-color: #008cba;
+	border: 1px solid #008cba
+	;
+}
+
+.label {
+    	font-size: 16px !important;
+    	background-color: white  !important;
+    	color: #333333  !important;
+    	text-align: left  !important;
+    	line-height: 0.9rem !important;
+    }
+
+
+.bottomStrip {
+	
+	background-color: #006282; color: white;  font-size: 11; width: 100%; 
+	text-align: center; height: 20px; line-height: 20px;
+}
+
+.bottomStrip a {
+	color: white;
+	font-weight: bold;
+}
+
+.bookmark {
+	background-image: url("../images/bookmark.png");
+	background-repeat: no-repeat;
+	padding-left:7%;
+	background-position: left;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 100%;
+	
+}
+
+i {
+	text-align: left;
+	left: 0px;
+}
+ 
+      .size-12 { font-size: 12px; }
+      
+      .size-14 { font-size: 14px; }
+      
+      .size-16 { font-size: 16px; }
+      
+      .size-18 { font-size: 18px; }
+      
+      .size-21 { font-size: 21px; }
+      
+      .size-24 { font-size: 24px; }
+      
+      .size-36 { font-size: 36px; }
+      
+      .size-48 { font-size: 48px; }
+      
+      .size-60 { font-size: 60px; }
+      
+      .size-72 { font-size: 72px; }
+      
+        .size-140 { font-size: 140px; }
+      
+      .size-150 { font-size: 150px; }
+
+      .usage { margin-top: 10px; }

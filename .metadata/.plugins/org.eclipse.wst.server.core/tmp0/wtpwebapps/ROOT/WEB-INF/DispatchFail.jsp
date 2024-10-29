@@ -1,0 +1,1 @@
+Error:Dispatch Card Failed, Document No = <%= session.getAttribute("sidNo") %> ! The Given Card Already Dispatched! Please Check in Application History!
